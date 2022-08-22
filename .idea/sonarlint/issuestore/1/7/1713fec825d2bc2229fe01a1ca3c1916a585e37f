@@ -1,0 +1,19 @@
+
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(¼”‚Íùÿÿÿÿ
+f	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ù˜ 
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚâÐžûÿÿÿÿ
+t
+java:S2142Z"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+K
+java:S2446_"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+t
+java:S2142k"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+K
+java:S2446q"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+K
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+X
+java:S1128"BRemove this unused import 'org.json.simple.parser.ParseException'.(ƒÁ‡

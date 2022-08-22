@@ -1,0 +1,33 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ
+Y
+java:S1854 "CRemove this useless assignment to local variable "controladorMain".(æ™„Ø
+J
+java:S1481 "4Remove this unused "controladorMain" local variable.(æ™„Ø
+N
+java:S1128"1Remove this unused import 'Access.IndicacionDAO'.(Äè¢•8Öóİõ©0
+O
+java:S1128	"-Remove this unused import 'Access.CiudadDAO'.(½§š­ûÿÿÿÿ8æóİõ©0
+P
+java:S1128
+"3Remove this unused import 'Access.CiudadTarifaDAO'.(äöûæ8õóİõ©0
+Q
+java:S1128"/Remove this unused import 'Access.ServicioDAO'.(÷¤‚Üûÿÿÿÿ8…ôİõ©0
+O
+java:S1128"-Remove this unused import 'Access.TarifaDAO'.(€¹Œşşÿÿÿÿ8”ôİõ©0
+]
+java:S1128";Remove this unused import 'Controller.ControladorServicio'.(à•ˆ¯ıÿÿÿÿ8¤ôİõ©0
+F
+java:S1128")Remove this unused import 'Model.Ciudad'.(¨ÿãğ8´ôİõ©0
+L
+java:S1128"/Remove this unused import 'Model.CiudadTarifa'.(‹Îö8Ãôİõ©0
+J
+java:S1128"-Remove this unused import 'Model.Indicacion'.(¯Š»ü8Óôİõ©0
+H
+java:S1128"+Remove this unused import 'Model.Servicio'.(…¦î¿8Óôİõ©0
+F
+java:S1128")Remove this unused import 'Model.Tarifa'.(øè÷‚8ãôİõ©0
+Q
+java:S1128"/Remove this unused import 'View.GuiRegisClien'.(ŞÒÏ”úÿÿÿÿ8òôİõ©0
+O
+java:S1128"-Remove this unused import 'View.GuiServicio'.(õáÏ•ùÿÿÿÿ8òôİõ©0
